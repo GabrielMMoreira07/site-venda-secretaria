@@ -1,0 +1,6 @@
+{
+  "name": "Secretária Eletrônica IA",
+  "description": "Plataforma de gestão e vendas para secretária eletrônica com inteligência artificial para clínicas e profissionais da saúde.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
